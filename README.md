@@ -9,10 +9,11 @@
 
 ## Day 1 - Intro to cloud & AWS
 
-- [What is cloud](what-is-cloud/README.md)
-  - point 1
-  - point 2
+- [What is cloud](what-is-cloud)
+  - The above link goes to the folder
+  - Going to the folder also shows the default file `README.md` in that folder
 - [AWS basics](aws-basics/README.md)
+  - The above link goes straight to a file
 
 ## Day 2
 
