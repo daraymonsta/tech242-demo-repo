@@ -3,29 +3,31 @@
 - [Week 1 - AWS and Linux](#week-1---aws-and-linux)
   - [Day 1 - Intro to cloud \& AWS](#day-1---intro-to-cloud--aws)
   - [Day 2](#day-2)
-  - [How to change directory in Linux](#how-to-change-directory-in-linux)
+  - [Learning how to do highlight code](#learning-how-to-do-highlight-code)
 
+<br>
 
 ## Day 1 - Intro to cloud & AWS
 
-- [What is cloud](what-is-cloud)
+- [What is cloud](what-is-cloud/README.md)
   - point 1
   - point 2
-- [AWS Basics](aws-basics.md)
+- [AWS basics](aws-basics/README.md)
 
 ## Day 2
 
 Some more notes
 
+Example of how to include an image in your documentation:<br>
 ![screenshot-vscode-files-and-folders](readme-images/screenshot-vscode-files-and-folders.png)
 
 
-## How to change directory in Linux
+## Learning how to do highlight code
 
-Change directory using this command: `cd <directory>`
+This is code in the same line: `cd <directory>`
 
-Change directory using this command: 
+This is a multi-line code block: 
 ```
 cd <directory>
-<other commands>
+ls
 ```
